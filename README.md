@@ -4,6 +4,10 @@
 </p>
 <!-- manucho-readme-banner:end -->
 
+<p align="center">
+  <img src="assets/readme/project-logo.svg" width="240" alt="Wonder Woman 3D project logo">
+</p>
+
 # WONDER WOMAN
 
 Make the answer prove itself before release.
